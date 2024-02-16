@@ -1,0 +1,41 @@
+.container-job {
+  padding: 16px 12px;
+  margin: 12px 0;
+}
+
+.jobdetails-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 16px;
+}
+
+.Line1 span {
+  margin-right: 16px;
+}
+
+.Line2 {
+}
+
+.FullTime {
+  background-color: lightgrey;
+  color: black;
+  padding: 4px 8px;
+  font-weight: 600;
+}
+
+.Apply,
+.View {
+  color: skyblue;
+  padding: 10px 12px;
+  margin: 0 8px;
+  background: white;
+  font-weight: bold;
+  border-radius: 16px;
+  border: 1px solid skyblue;
+}
+
+.View {
+  border: none;
+  color: grey;
+}
